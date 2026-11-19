@@ -2,7 +2,7 @@
 
 **Software Engineer & Independent Researcher | Bengaluru, India**
 
-💼 Software Engineer at **Infosys**  
+💼 Senior Software Engineer at **Cognizant**  
 🎓 B.Tech, **Jaypee Institute of Information Technology (JIIT), Noida**  
 📍 Bengaluru, India
 
