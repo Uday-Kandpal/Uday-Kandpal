@@ -56,7 +56,7 @@ Alongside software engineering in Java, I conduct independent research in theore
 - [ResearchGate](https://www.researchgate.net/profile/Udaysagar-Kandpal)
 - [Quora](https://www.quora.com/profile/Uday-Kandpal-II)
 - [Google Scholar](https://scholar.google.com/citations?view_op=search_authors&mauthors=ukandpal2@gmail.com)
-- ORCID: *Add URL after registration*
+- [ORCID: 0009-0004-6208-1528](https://orcid.org/0009-0004-6208-1528)
 
 ---
 
