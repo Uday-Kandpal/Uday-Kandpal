@@ -8,7 +8,8 @@
 
 ## About Me
 
-I am a software engineer at Infosys in Bengaluru and a B.Tech graduate from Jaypee Institute of Information Technology (JIIT), Noida. I previously worked at IBM India.
+I am a senior software engineer at cognizant in Bengaluru and a B.Tech graduate from Jaypee Institute of Information Technology Your ORCID iD: 0009-0004-6208-1528
+Your ORCID record is https://orcid.org/0009-0004-6208-1528, Noida. I previously worked at IBM India.
 
 Alongside software engineering in Java, I conduct independent research in theoretical physics and combinatorial optimization, and write on Indian philosophy and spirituality.
 
